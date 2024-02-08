@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> ◁ Programação de Dispositivos Móveis II ▷ </h1>
+<h1>  Programação de Dispositivos Móveis II 📲 </h1>
 
 <img width="80%" src="https://github.com/Cam1ss/Projeto_Apple_Academy/assets/125037138/db67935d-cbd3-447b-9eae-a7239d23c0fe">
 </div>

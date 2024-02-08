@@ -16,7 +16,7 @@
 
 <h2> 💻 :: Ferramentas Utilizadas </h2>
 
-[![SkillIcons](https://skillicons.dev/icons?i=dart,flutter,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio)](https://skillicons.dev)<br/>
 
 </div>
  
